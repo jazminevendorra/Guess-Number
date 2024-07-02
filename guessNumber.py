@@ -5,8 +5,7 @@
 #Higher than the random number => the program will display “Too High …”.
 #Lower than the random number => the program will display “Too Low … ”.
 #The same as the random number => the program will congratulate the player.
-#
-# Jazmin Even Dorra
+
 
 # Import libraries
 import random
